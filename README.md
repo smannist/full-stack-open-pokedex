@@ -13,3 +13,7 @@ Start by running `npm install` inside the project folder
 `npm run eslint` to run eslint
 `npm run build` to make a production build
 `npm run start-prod` to run your production build
+
+## Deployment status
+
+The [application](https://full-stack-open-pokedex-r4l4.onrender.com/) is currently manually deployed on Render (exercise 1.10). Automatic deployment will be added tomorrow (if nothing breaks :D).
