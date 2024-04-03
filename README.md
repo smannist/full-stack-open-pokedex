@@ -16,4 +16,4 @@ Start by running `npm install` inside the project folder
 
 ## Deployment status
 
-The [application](https://full-stack-open-pokedex-r4l4.onrender.com/) is currently manually deployed on Render (exercise 1.10). Automatic deployment will be added tomorrow (if nothing breaks :D).
+The [application](https://full-stack-open-pokedex-r4l4.onrender.com/) is currently manually deployed on Render (exercise 11.10). Automatic deployment will be added tomorrow (if nothing breaks :D).
